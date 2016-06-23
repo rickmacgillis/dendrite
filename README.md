@@ -1,13 +1,11 @@
 # Dendrite
 
 **Synopsis**
-
 An open source version of Razer Synapse for Linux
 
 **Project Status:** In Development
 
 **Description**
-
 For now, Dendrite will just be a tool to reconfigure the buttons on your Razer Naga 2014 mouse. If there's enough interest in further development, the project *may* grow to support new hardware and features. You're always welcome to create your own additions to the code and create a pull-request.
 
 #Contributing / Building Dendrite
